@@ -1,0 +1,25 @@
+id,name,unit
+1,Server:Count:IPv4,Unit
+2,Server:Count:IPv6,Unit
+3,Server:Count:Dedicated,Unit
+4,Server:Count:Non-Dedicated,Unit
+5,Server:Count:Password Protected,Unit
+6,Server:Play Time:Maximum,Hour
+7,Server:Play Time:Minimum,Hour
+8,Server:Play Time:Average,Hour
+9,Server:Play Time:Median,Hour
+10,Client:Count:Total,Unit
+11,Client:Count:Per Server:Maximum,Unit
+12,Client:Count:Per Server:Minimum,Unit
+13,Client:Count:Per Server:Average,Unit
+14,Client:Count:Per Server:Median,Unit
+15,Client:Capacity:Total,Unit
+16,Client:Capacity:Per Server:Median,Unit
+17,Company:Count:Total,Unit
+18,Company:Count:Per Server:Maximum,Unit
+19,Company:Count:Per Server:Minimum,Unit
+20,Company:Count:Per Server:Average,Unit
+21,Company:Count:Per Server:Median,Unit
+22,Company:Capacity:Total,Unit
+23,Company:Capacity:Per Server:Median,Unit
+24,Server:Count,Unit

@@ -1,0 +1,6 @@
+beautifulsoup4
+lxml
+pandas
+playwright
+pydantic-settings
+SQLAlchemy

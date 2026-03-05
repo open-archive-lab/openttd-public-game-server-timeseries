@@ -1,4 +1,4 @@
-id,name,unit
+series_id,name,unit
 1,Server:Count:IPv4,Unit
 2,Server:Count:IPv6,Unit
 3,Server:Count:Dedicated,Unit
